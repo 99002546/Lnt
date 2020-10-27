@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lnt</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_name">Enter name</string>
+</resources>
